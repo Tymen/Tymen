@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tymen-vis-082257185/](https://www.linkedin.com/in/tymen-vis-082257185/)
 
-- 💬 Ask me about **Vuejs**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **vis@tymen.dev**
 
