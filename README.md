@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java, SQL**
 
-- 👨‍💻 My website: [https://tvis.nl](https://tvis.nl)
+- 👨‍💻 My website: [https://tymen.dev](https://tymen.dev)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tymen-vis-082257185/](https://www.linkedin.com/in/tymen-vis-082257185/)
 
