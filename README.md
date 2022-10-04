@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tymen</h1>
 <h3 align="center">A Software Development Student from The Netherlands</h3>
 
-- 🌱 I’m currently learning **Flutter, Java, SQL**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 My website: [https://tymen.dev](https://Tymen.dev)
 
