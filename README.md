@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 # 📃 My Profile
 🌱 I’m currently learning C#<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me vis@tymen.dev | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 :---|:-------------------------:
