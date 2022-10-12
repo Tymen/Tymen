@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning C#<br>👨‍💻 My website: https://tymen.dev<br>📄 Know about my experiences https://www.linkedin.com/in/tymen-vis-082257185/<br>💬 Ask me about Javascript<br>📫 How to reach me vis@tymen.dev <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 Profile Stats             |  ---
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=true)
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
