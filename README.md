@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Tymen</h1>
 <h3>I study Software Engineering at Windesheim University of Applied Sciences</h3>
 
-🌱 I’m currently learning C#<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me vis@tymen.dev | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+🌱 I’m currently learning C#<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me info@tymen.dev | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 :---|:-------------------------:
 
 # 📊 GitHub Stats:
