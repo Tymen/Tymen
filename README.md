@@ -1,26 +1,14 @@
-# Hi there, I'm Tymen 👋
+<h1 >Hi 👋, I'm Tymen</h1>
+<h3>I study Software Engineering at Windesheim University of Applied Sciences</h3>
 
-## 🎓 Education
-I'm currently studying Software Engineering at Windesheim University of Applied Sciences.
+🌱 I’m currently learning Java<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me info@tymen.dev | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+:---|:-------------------------:
 
-## 👨‍💻 Currently Learning
-I’m currently learning Java.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=true)
+:-------------------------:|:-------------------------:
 
-## 🌐 My Website
-Check out my personal website [here](https://tymen.dev).
-
-## 💡 Ask Me About
-Feel free to ask me about Javascript.
-
-## 📬 Contact Me
-You can reach me at [info@tymen.dev](mailto:info@tymen.dev).
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=true)
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Tymen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tymen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💻 Tech Stack
 ### 💬 Languages
@@ -38,8 +26,7 @@ You can reach me at [info@tymen.dev](mailto:info@tymen.dev).
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 
-###```markdown
-📦 Servers / Databases
+###📦 Servers / Databases
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 🛠 Software
