@@ -7,6 +7,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=true)
 :-------------------------:|:-------------------------:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tymen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Tymen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ### 💬 Languages
