@@ -1,4 +1,5 @@
 <h1 >Hi 👋, I'm Tymen</h1>
+
 <h3>I study Software Engineering at Windesheim University of Applied Sciences</h3>
 
 🌱 I’m currently learning Java<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me info@tymen.dev
