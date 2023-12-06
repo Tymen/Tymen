@@ -5,8 +5,7 @@
 🌱 I’m currently learning Java<br>👨‍💻 My website: https://tymen.dev<br>💬 Ask me about Javascript<br>📫 How to reach me info@tymen.dev
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Tymen&theme=dark&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=Tymen&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
